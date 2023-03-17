@@ -1,0 +1,11 @@
+.display {
+  max-width: 370px;
+  height: 60px;
+  background-color: #3D3F4A;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 40px;
+  padding: 2px 15px;
+}

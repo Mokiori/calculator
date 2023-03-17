@@ -1,0 +1,41 @@
+.button {
+  width: 62px;
+  height: 58px;
+  border-radius: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.button-operation {
+  background-color: #a7834b;
+  border: 1px solid #4e473f;
+}
+
+.button-operation:hover {
+  background-color: #c69b57;
+}
+
+.button-operation:active {
+  background-color: #594c39;
+}
+
+.button-number {
+  background-color: #5A5D6C;
+  border: 1px solid #625f5f;
+}
+
+.button-number:hover {
+  background-color: #82879E;
+}
+
+.button-number:active {
+  background-color: #2E303D;
+}
+
+.button-large {
+  width: 140px;
+}
